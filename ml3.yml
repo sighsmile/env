@@ -1,0 +1,19 @@
+name: ml3
+dependencies:
+- python=3.5
+- notebook
+- pandas
+- scikit-learn
+- h5py
+- sqlalchemy
+- seaborn
+- pip:
+  - mysqlclient
+  - retry
+  - schedule
+  - qgrid
+  - python_speech_features
+  - tensorflow-gpu
+  - keras
+  - gensim
+  - nltk
