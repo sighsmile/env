@@ -1,6 +1,6 @@
 name: ml3
 dependencies:
-- python=3.5
+- python=3.6
 - notebook
 - pandas
 - scikit-learn
@@ -17,3 +17,4 @@ dependencies:
   - keras
   - gensim
   - nltk
+  - pattern3
